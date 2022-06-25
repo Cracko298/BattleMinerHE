@@ -5,3 +5,8 @@
 # Features:
 - Checks if python is installed properly.
 - Edit's Health in all BMZ Save-Data.
+- Simple/Easy UI.
+
+# Requirements:
+- Python 3.9 or New(er).
+- May need dotNET Desktop Runtime 5.0 or New(er).
