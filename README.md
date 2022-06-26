@@ -10,7 +10,7 @@
 - Compiled Version allows users without Python installed to use the application.
 
 # Requirements:
-- Python 3.9 or New(er).
+- Python 3.9 or New(er). (NOT FOR THE COMPILED VERSION).
 - May need dotNET Desktop Runtime 5.0 or New(er).
 - Windows Vista or a New(er) Version of Windows.
 
