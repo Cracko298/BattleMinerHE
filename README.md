@@ -1,12 +1,13 @@
 # BattleMinerZ-Health-Editor
 - Edit Health via BattleMinerZ Decrypted Save-Data Sectors.
 - [Download The BMZ-Health-Editor](https://github.com/Cracko298/BattleMinerZ-Health-Editor/files/8983756/BMZ-Health-Editor.zip)
-
+- [Download The BMZ-Health-Editor (COMPILED)](https://github.com/Cracko298/BattleMinerZ-Health-Editor/releases/download/v1.2-beta-1/BMZ-Health-Editor-COMPILED.zip)
 
 # Features:
 - Checks if python is installed properly.
 - Edit's Health in all BMZ Save-Data.
 - Simple/Easy UI.
+- Compiled Version allows users without Python installed to use the application.
 
 # Requirements:
 - Python 3.9 or New(er).
